@@ -1,2 +1,2 @@
 # hello-world
-first contributing open source
+first contribution to open source
